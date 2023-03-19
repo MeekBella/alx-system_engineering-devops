@@ -1,1 +1,2 @@
-Shell basics Need to know
+#!/bin/bash
+Shell basics
